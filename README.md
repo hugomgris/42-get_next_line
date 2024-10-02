@@ -1,2 +1,1 @@
-# 42-get_next_line
-get_next_line project from 42 Barcelona
+Complete project with bonus (score 125)
